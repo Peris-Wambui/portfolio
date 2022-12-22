@@ -25,3 +25,14 @@ By building our react js portfolio we will try to cover all these topics.
 
 # Setup
 - run ```npm i && npm start```
+
+creating the app
+-run ``` npx create-react-app (name-of-the-app)```
+remove unnecessary files
+```(logo.svg, setupTests.js,reportWebvitals.js,App.test.js, App.css)```
+
+install react-router-dom
+-run ``` npm install react-router-dom```
+
+install react-icons
+-run ```npm install react-icons```
